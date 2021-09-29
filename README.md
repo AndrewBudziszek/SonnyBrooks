@@ -9,8 +9,9 @@
 - 👯 I’m looking to collaborate on Javascript projects
 - 👀 Check out my resume and more at [RESUME.md](https://github.com/SonnyBrooks/RESUME.md)
 
-### Current Web Projects
+### Current Projects
 * App Store Info Lookup tool - https://main.d38li89hnrhx6v.amplifyapp.com/
+* Sonny Weather - https://sonny-weather.vercel.app/
 * Stock Trackers
   * https://www.isgmeup.space/ (GME - Gamestop)
   * https://www.ayyyyymc.bet/ (AMC - AMC Theatres)
