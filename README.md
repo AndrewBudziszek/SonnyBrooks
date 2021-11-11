@@ -12,6 +12,7 @@
 ### Current Projects
 * App Store Info Lookup tool - https://main.d38li89hnrhx6v.amplifyapp.com/
 * Sonny Weather - https://sonny-weather.vercel.app/
+* Next Flight - https://nextflight.live/
 * Stock Trackers
   * https://www.isgmeup.space/ (GME - Gamestop)
   * https://www.ayyyyymc.bet/ (AMC - AMC Theatres)
