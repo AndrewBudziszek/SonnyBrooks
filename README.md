@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on building simple React apps deployed via AWS
 - 🌱 I’m currently tinkering with Arduino based projects and keyboard firmware
-- 👯 I’m looking to collaborate on Javascript projects
+- 👯 I’m looking to collaborate on JavaScript projects
 - 👀 Check out my resume and more at [RESUME.md](https://github.com/SonnyBrooks/RESUME.md)
 
 ### Current Projects
