@@ -4,7 +4,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SonnyBrooks&theme=algolia&show_icons=true" alt="SonnyBrooks"/></p>
 
 
-- 🔭 I’m currently working on sharpening my algo skills with LeetCode
+- 🔭 I’m currently working on sharpening skills by building small apps with different tech
 - 🌱 I’m currently tinkering with mechanical keyboards
 - 👯 I’m looking to collaborate on JavaScript projects and learn more about TypeScript
 - 👀 Check out my resume and more at [RESUME.md](https://github.com/SonnyBrooks/RESUME.md)
